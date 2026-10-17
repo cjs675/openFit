@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+*.db
+*.db-wal
+*.db-shm
+data/
+out/
+config.json
+*.har
+*.chlsj
+.pytest_cache/
+*.egg-info/
